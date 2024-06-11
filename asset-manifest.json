@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/web-film.git/static/css/main.4213dd4b.css",
+    "main.js": "/web-film.git/static/js/main.2e1d5351.js",
+    "static/js/453.f9e21d31.chunk.js": "/web-film.git/static/js/453.f9e21d31.chunk.js",
+    "static/media/avenger.png": "/web-film.git/static/media/avenger.e11cf82358e7955f6b1b.png",
+    "static/media/batman.png": "/web-film.git/static/media/batman.e4825157a0e4f82e4c88.png",
+    "static/media/gangstercop.png": "/web-film.git/static/media/gangstercop.45a59f680582daf03e13.png",
+    "static/media/blackwidow.png": "/web-film.git/static/media/blackwidow.7e683fbcdff4587528e6.png",
+    "static/media/sicario.png": "/web-film.git/static/media/sicario.6b7573204c294475befb.png",
+    "static/media/captainamerica.png": "/web-film.git/static/media/captainamerica.db1f0ca1682e7c1e5073.png",
+    "static/media/shelby.png": "/web-film.git/static/media/shelby.e1d0d9f930187edc12e1.png",
+    "static/media/johnwick.png": "/web-film.git/static/media/johnwick.4ce8be39c208a721387f.png",
+    "static/media/pict2.jpg": "/web-film.git/static/media/pict2.b0c56f0df67e091e7953.jpg",
+    "static/media/pict1.jpg": "/web-film.git/static/media/pict1.cae91c59c5288b1690a2.jpg",
+    "static/media/pict3.jpg": "/web-film.git/static/media/pict3.926bcb4bf3198b1558b7.jpg",
+    "index.html": "/web-film.git/index.html",
+    "main.4213dd4b.css.map": "/web-film.git/static/css/main.4213dd4b.css.map",
+    "main.2e1d5351.js.map": "/web-film.git/static/js/main.2e1d5351.js.map",
+    "453.f9e21d31.chunk.js.map": "/web-film.git/static/js/453.f9e21d31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4213dd4b.css",
+    "static/js/main.2e1d5351.js"
+  ]
+}
